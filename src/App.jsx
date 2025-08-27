@@ -14,6 +14,7 @@ function App() {
             <span> Last Name</span>
           </li>
           <li>EMAIL: Email Address</li>
+          <li>GENDER: Gender</li>
         </ul>
       </div>
     </>
