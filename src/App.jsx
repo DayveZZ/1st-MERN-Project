@@ -6,8 +6,8 @@ function App() {
       <div className="flex flex-col justify-center items-center h-screen">
         <h1>1ST MERN PROJECT</h1>
 
-        <ul className="p-2 border rounded mt-8">
-          <li className="text-center mb-2">NAME CARD</li>
+        <ul className="p-4 border rounded mt-8">
+          <li className="text-center mb-4">NAME CARD</li>
           <li>ID: User ID</li>
           <li>
             NAME: <span>First Name</span>
